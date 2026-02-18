@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Términos y Condiciones para Empleados | Visink Hosting</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 40px;
+            background-color: #f4f6f9;
+            color: #333;
+            line-height: 1.8;
+        }
+        h1, h2 {
+            color: #0d47a1;
+        }
+        .container {
+            background: #ffffff;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+        }
+        footer {
+            margin-top: 50px;
+            font-size: 14px;
+            color: #666;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>TÉRMINOS Y CONDICIONES PARA EMPLEADOS</h1>
+        <h2>VISINK HOSTING</h2>
+
+        <p><strong>Última actualización:</strong> 2026</p>
+
+        <p>El presente documento establece los términos, condiciones, responsabilidades y obligaciones que regulan la relación laboral entre Visink Hosting (en adelante “la Empresa”) y cualquier persona que desempeñe funciones laborales, técnicas, administrativas o comerciales dentro de la organización (en adelante “el Empleado”).</p>
+
+        <h2>1. Aceptación del Acuerdo</h2>
+        <p>Al aceptar un cargo dentro de Visink Hosting, el Empleado reconoce haber leído, comprendido y aceptado íntegramente las disposiciones aquí contenidas. Este documento constituye un acuerdo interno obligatorio y vinculante.</p>
+
+        <h2>2. Objeto de la Relación Laboral</h2>
+        <p>El Empleado prestará sus servicios conforme a las funciones asignadas, respetando las políticas internas, reglamentos operativos y directrices establecidas por la dirección de la Empresa.</p>
+
+        <h2>3. Confidencialidad y Protección de Información</h2>
+        <p>El Empleado se compromete a mantener absoluta confidencialidad sobre:</p>
+        <ul>
+            <li>Información técnica de servidores, configuraciones y sistemas.</li>
+            <li>Datos personales y comerciales de clientes.</li>
+            <li>Estrategias de mercado, precios y planes empresariales.</li>
+            <li>Credenciales de acceso y sistemas internos.</li>
+        </ul>
+        <p>Esta obligación continuará vigente incluso después de finalizada la relación laboral.</p>
+
+        <h2>4. Protección de Datos Personales</h2>
+        <p>Visink Hosting garantiza que los datos personales del Empleado serán utilizados únicamente para fines administrativos internos y no serán compartidos con terceros sin autorización expresa, salvo requerimiento legal.</p>
+
+        <h2>5. Uso Adecuado de Recursos Tecnológicos</h2>
+        <p>Los recursos tecnológicos proporcionados por la Empresa deberán utilizarse exclusivamente para fines laborales. Queda prohibido:</p>
+        <ul>
+            <li>Usar servidores para proyectos personales sin autorización.</li>
+            <li>Instalar software no autorizado.</li>
+            <li>Compartir accesos administrativos con terceros.</li>
+        </ul>
+
+        <h2>6. Seguridad Informática</h2>
+        <p>El Empleado deberá proteger sus credenciales mediante contraseñas seguras y autenticación adicional cuando sea requerida. Cualquier incidente de seguridad deberá reportarse inmediatamente.</p>
+
+        <h2>7. Conducta Profesional y Ética</h2>
+        <p>Se exige comportamiento respetuoso y profesional hacia clientes, proveedores y compañeros. Está prohibida cualquier forma de discriminación, acoso o conducta inapropiada.</p>
+
+        <h2>8. Propiedad Intelectual</h2>
+        <p>Todo desarrollo, configuración, sistema, diseño, documento o herramienta creada durante la relación laboral será propiedad exclusiva de Visink Hosting.</p>
+
+        <h2>9. Responsabilidad y Cumplimiento</h2>
+        <p>El Empleado deberá cumplir con los estándares de calidad, tiempos de respuesta y protocolos técnicos establecidos por la Empresa.</p>
+
+        <h2>10. Sanciones Disciplinarias</h2>
+        <p>El incumplimiento de las normas podrá dar lugar a sanciones que incluyen amonestaciones, suspensión de funciones o terminación del contrato.</p>
+
+        <h2>11. Terminación de la Relación Laboral</h2>
+        <p>En caso de finalización del vínculo laboral, el Empleado perderá automáticamente todo acceso a sistemas internos y deberá devolver cualquier recurso físico o digital perteneciente a la Empresa.</p>
+
+        <h2>12. Modificaciones</h2>
+        <p>Visink Hosting se reserva el derecho de modificar estos términos en cualquier momento. Las actualizaciones serán notificadas formalmente.</p>
+
+        <h2>13. Jurisdicción</h2>
+        <p>Este acuerdo se regirá por la legislación aplicable en la jurisdicción donde opere legalmente la Empresa.</p>
+
+        <h2>14. Aceptación Final</h2>
+        <p>Al firmar contrato o continuar desempeñando funciones en la Empresa, el Empleado declara aceptar todas las condiciones aquí establecidas.</p>
+
+        <footer>
+            © 2026 Visink Hosting. Todos los derechos reservados.
+        </footer>
+    </div>
+</body>
+</html>
+
